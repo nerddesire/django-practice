@@ -88,3 +88,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Ignore database
+db.sqlite3
