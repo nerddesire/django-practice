@@ -90,4 +90,4 @@ ENV/
 .ropeproject
 
 # Ignore database
-db.sqlite3
+db.sql*
